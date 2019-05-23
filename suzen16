@@ -1,0 +1,3 @@
+#!/bin/bash
+var=$(id)
+echo 'flag is:' $var

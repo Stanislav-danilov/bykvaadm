@@ -1,0 +1,3 @@
+#!/bin/bash
+var=$(pwd)
+echo 'flaf is:' $var
